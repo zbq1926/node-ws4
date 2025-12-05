@@ -35,7 +35,7 @@ FROM ghcr.io/github用户名/镜像名:latest
 ENV DOMAIN=你的space域名或反代后的域名
 
 Dockerfile
-FROM ghcr.io/zbq1926/n123ws:latest
+## FROM ghcr.io/zbq1926/n123ws:latest
 
 ENV DOMAIN=
 
