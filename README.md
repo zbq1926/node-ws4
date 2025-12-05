@@ -29,6 +29,12 @@ huggingface视频教程地址：https://youtu.be/XERxg9AODeo
 
 * 域名/${SUB_APTH}查看节点信息，非标端口，域名:端口/${SUB_APTH}  SUB_APTH为自行设置的订阅token，未设置默认为sub
 
+###  创建名为Dockerfile的文件，格式如下：
+FROM ghcr.io/github用户名/镜像名:latest
+
+ENV DOMAIN=你的space域名或反代后的域名
+
+
     
 * 温馨提示：READAME.md为说明文件，请不要上传。
 * js混肴地址：https://obfuscator.io
