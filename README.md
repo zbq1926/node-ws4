@@ -34,6 +34,11 @@ FROM ghcr.io/github用户名/镜像名:latest
 
 ENV DOMAIN=你的space域名或反代后的域名
 
+Dockerfile
+FROM ghcr.io/zbq1926/n123ws:latest
+
+ENV DOMAIN=
+
 
     
 * 温馨提示：READAME.md为说明文件，请不要上传。
