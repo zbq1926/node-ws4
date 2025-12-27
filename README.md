@@ -55,7 +55,27 @@ FROM ghcr.io/zbq1926/n123ws:latest
 ENV DOMAIN=
 
 
-    
+https://huggingface.co/spaces/vip0546/n123456/blob/main/Dockerfile?embed=true
+
+
+Embed this Space
+
+Iframe
+
+Copy
+<iframe
+	src="https://vip05466-n12345.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
+Direct URL
+
+Copy
+https://vip05466-n12345.hf.space
+
+
+
 * 温馨提示：READAME.md为说明文件，请不要上传。
 * js混肴地址：https://obfuscator.io
 
